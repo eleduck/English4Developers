@@ -12,6 +12,7 @@ This is a awesome list for developers to imporve English
  - [How To Write A Killer Resume Objective](https://theinterviewguys.com/objective-for-resume/)
  - [Behavioral Interview](https://www.grammarly.com/blog/behavioral-interview-questions-and-answers/)
  - [30 Behavioral Interview Questions You Should Be Ready to Answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
+ - [IT Key Word](https://wmich.edu/sites/default/files/attachments/u86/2013/IT%20Keywords.pdf)
 
 
 ## Agile Development
@@ -21,5 +22,6 @@ This is a awesome list for developers to imporve English
  - [Scrum](https://www.atlassian.com/agile/scrum)
  - [Kanban vs. scrum: which agile are you?](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
 
-English Study
+## English Study
+
 - grammarly.com, digital writing assistant supports clear and effective communication
