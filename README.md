@@ -20,3 +20,6 @@ This is a awesome list for developers to imporve English
  - [Waht is Scrum](https://www.scrum.org/resources/what-is-scrum)
  - [Scrum](https://www.atlassian.com/agile/scrum)
  - [Kanban vs. scrum: which agile are you?](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
+
+English Study
+- grammarly.com, digital writing assistant supports clear and effective communication
