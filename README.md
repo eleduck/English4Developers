@@ -13,6 +13,7 @@ This is a awesome list for developers to imporve English
  - [Behavioral Interview](https://www.grammarly.com/blog/behavioral-interview-questions-and-answers/)
  - [30 Behavioral Interview Questions You Should Be Ready to Answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
  - [IT Key Word](https://wmich.edu/sites/default/files/attachments/u86/2013/IT%20Keywords.pdf)
+ - [Adjective personality words](https://www.monster.ca/career-advice/article/50-personality-traits-for-the-workplace-canada)
 
 
 ## Agile Development
