@@ -23,6 +23,9 @@ This is a awesome list for developers to imporve English
  - [Scrum](https://www.atlassian.com/agile/scrum)
  - [Kanban vs. scrum: which agile are you?](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
 
+
 ## English Study
 
-- grammarly.com, digital writing assistant supports clear and effective communication
+- [grammarly](https://www.grammarly.com/): the digital writing assistant supports clear and effective communication
+- [Computer Science Glossary](https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile)
+- [Developer Dictionary](https://github.com/dephraiim/awesome-developer-dictionary)
