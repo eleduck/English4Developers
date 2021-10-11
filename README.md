@@ -30,4 +30,5 @@ This is a awesome list for developers to imporve English
 - [Computer Science Glossary](https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile)
 - [Developer Dictionary](https://github.com/dephraiim/awesome-developer-dictionary)
 - [British Council](https://learnenglish.britishcouncil.org/)
+- [Qwerty Learner](https://kaiyiwing.github.io/qwerty-learner/)
 - [Abbreviations](abbreviations.md)
