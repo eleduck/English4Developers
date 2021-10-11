@@ -1,6 +1,6 @@
 # Welcome to English4Developers!
 
-This is a awesome list for developers to imporve English
+This is a awesome list for developers to improve English
 
 
 ## CV & CL
@@ -19,7 +19,7 @@ This is a awesome list for developers to imporve English
 ## Agile Development
 
  - [Manifesto for Agile Software Development](http://www.scrummanifesto.org/)
- - [Waht is Scrum](https://www.scrum.org/resources/what-is-scrum)
+ - [What is Scrum](https://www.scrum.org/resources/what-is-scrum)
  - [Scrum](https://www.atlassian.com/agile/scrum)
  - [Kanban vs. scrum: which agile are you?](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)
 
