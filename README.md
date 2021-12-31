@@ -36,6 +36,7 @@ This is a awesome list for developers to improve English
 
 ## English names
 
+* [How to pick an English name](How-to-pick-an-English-name.md)
 * [Boy Names](https://www.verywellfamily.com/top-1000-baby-boy-names-2757618)
 * [Girl Names](https://www.verywellfamily.com/top-1000-baby-girl-names-2757832)
 
