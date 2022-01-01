@@ -37,7 +37,7 @@ Younger English learners living in their home country are more likely to have **
 
 ***Reason 3*** is the most valuable reason for English learners in my opinion. For many people, language learning is more than just learning new sets of new words. Cultural behavior, habits and attitudes are included in acquiring the language. Those who have a sense of personal identity are the most likely to be a successful language learner. Everyone has a natural process of moving their tongue, jaw, and mouth. It was built over time while speaking their native language. Learners who show a better ability to adapt to foreign sounds’ mouth positions are more likely to produce the sounds naturally.
 
-The use of gestures is an example of something I have experienced. I began to say* 'Maya'（’妈呀’）*at times of frustration or surprise. With this, there was a breath of air out, an eyeball rolling and waving of arms.
+The use of gestures is an example of something I have experienced. I began to say'Maya'('妈呀')at times of frustration or surprise. With this, there was a breath of air out, an eyeball rolling and waving of arms.
 
 These **cultural** and **spoken behaviors** take a learner into a foreign place that sound try to express. It is a part of the language that could only be learnt via **experiences**. It is *invisible* part of a language. People who are better able to deal with this kind of pain are more likely to become better communicators across different cultures.
 
@@ -79,7 +79,9 @@ Picking a different name that ***ignores*** the cultural background of the secon
 
 This is ***NOT*** a conventional way of picking a name in English, because they are creative names and may help describe the person's interests or background. However, if an interviewer **feels** that you haven't taken the time of choosing a name ***seriously***, then they might question your **ability** to take work ***seriously***. We want to have a name that **helps** not *hurts* when we apply for remote positions, right?
 
-**Group 3** contains the names of famous and fictional people. These names are rare, which makes them easy to remember. Can you recall Chandler from Friends? 
+**Group 3** contains the names of famous and fictional people. These names are rare, which makes them easy to remember. 
+
+Can you recall Chandler from Friends? 
 
 If you want to choose a name like this, be aware that many native speakers will know where the name comes from when you introduce yourself. It is possible that your name will bring up memories of people you meet. These can be good or bad. It is outside your control, which is not good for job seeking in my opinion. The chance is 50/50, take it at your own risk. 
 
@@ -93,13 +95,13 @@ Many native English speakers name their children after **famous** people, so you
 
 ### *How do English-Speaking parents pick the names of their children?*
 
-A person’s name contains a '**first name**' and a‘**surname(Last Name)**'. Anything between the first name and surname is called the middle name(s). In most cases, only the first name and sometimes a ‘middle name' is chosen by parents for their child. Like Chinese culture, the last name or surname has a legacy attached to the family tree. Last name changes are very rare.
+A person’s name contains a '**first name**' and a ‘**surname(Last Name)**'. Anything between the first name and surname is called the middle name(s). In most cases, only the first name and sometimes a ‘middle name' is chosen by parents for their child. Like Chinese culture, the last name or surname has a legacy attached to the family tree. Last name changes are very rare.
 
 Parents usually pick up a book of baby names to research their meanings. They will often say the name next to the surname to make sure it sounds right. They might prefer a name that begins with a specific letter. Some parents prefer a more special name for their child, while others prefer a more common one.
 
 English names go in and out of fashion as time goes on. This affects the way an adult chooses their English name. Below are some steps to find an English name.
 
-Step 1: Go this this great Baby Name finder:
+Step 1: Go to these two great Baby Name finders:
 
 1. https://www.babycenter.com/baby-names
 2. https://www.mamanatural.com/baby-names/ 
