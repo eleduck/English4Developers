@@ -45,4 +45,4 @@
 * [Find Publick Slack groups to join](https://slofile.com/)
 
 ## Gmail and Google doc
-* [Google-Doc-Instruction](Google-Doc-Instruction.md)
+* [Google Doc Instruction](Google-Doc-Instruction.md)
