@@ -1,5 +1,7 @@
 # Welcome to English4Developers!
 
+![](images/eleduck_logo.png)
+
 This is a awesome list for developers to improve English
 
 
