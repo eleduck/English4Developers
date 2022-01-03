@@ -1,6 +1,6 @@
 # Welcome to English4Developers!
 
-This is a awesome list for developers to improve English
+<img src="https://github.com/eleduck/English4Developers/blob/8a19b28bfcf06e28f5c34b7318431a02e404eec1/images/eleduck_logo.png" width="150">
 
 
 ## CV & CL
@@ -36,6 +36,7 @@ This is a awesome list for developers to improve English
 
 ## English names
 
+* [How to pick an English name](How-to-pick-an-English-name.md)
 * [Boy Names](https://www.verywellfamily.com/top-1000-baby-boy-names-2757618)
 * [Girl Names](https://www.verywellfamily.com/top-1000-baby-girl-names-2757832)
 
