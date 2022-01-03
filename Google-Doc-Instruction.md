@@ -1,16 +1,4 @@
-![eleduck_logo](images/eleduck_logo-100px.png)
-
-### FYI (stands for 'FOR YOUR INFORMATION'):
-
-Some students **asked** us why we use **Google Doc** and **Gmail**, rather than other tools, such as Microsoft Office 365 and other free tools.
-
-One of the most important reasons is that for **remote jobs** you are going to apply, the prospect employer tends to use a suite from Google to **Save money**. Especially for smaller companies. Microsoft Office costs are **too high** for small players.
-
-Another reason is that, once you have Google credentials from services such as Gmail, you can log in to other services such as LinkedIn with the Google account, which will **save time** and make your life a lot easier.
-
-We want our students to be equipped as much as possible to gain some **REAL Working Experience** as a remote worker.
-
-If you have any questions, feel free to post them on the WeChat group, and we will guide you along the way.
+# How to get a google doc shared link
 
 ## 1. Get an Gmail Account
 
@@ -38,7 +26,7 @@ Click on 1 to change the file name you want.
 
 Click on 2 to type your word document.
 
-After you finish your Resume, click on the blue [Share] button at the top right corner of the browser:
+After you are ready, click on the blue [Share] button at the top right corner of the browser:
 
 ![google-doc-share](images/gmail/google-doc-share.png)
 
@@ -55,21 +43,9 @@ Click on 3 “Change to anyone with the link” go to next page
 
 ![google-doc-permission-change](images/gmail/google-doc-permission-change.png)
 
-* 1 is where you can change the file permission, change it to Editor.
-* 2 is the actual link for your homework.
+* 1 is where you can change the file permission. Change it to Editor if you want the Doc to be edited by other, change it to Commenter if you need others help for comments, or leave it to Viewer if you just want to give out read permission.
+* 2 is the actual link you will share.
 * 3 is the button you click to copy the file link.
 
-First change the permission to Editor, then click on Copy the link.
-
-Now you have the link for the cv you produce.
-
-## 4. Finally, go to the submit form within your email for that task.
-
-Then paste the link you copied above in here:
-
-![google-doc-form-submit](images/gmail/google-doc-form-submit.png)
-
-
-That’s it.
-
-[eleduc team](https://www.eleduck.com)
+Change the permission based on your needs, then click on Copy link.
+You are all set!
