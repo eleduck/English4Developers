@@ -1,8 +1,6 @@
 # Welcome to English4Developers!
 
-![](images/eleduck_logo.png)
-
-This is a awesome list for developers to improve English
+<img src="https://github.com/eleduck/English4Developers/blob/8a19b28bfcf06e28f5c34b7318431a02e404eec1/images/eleduck_logo.png" width="150">
 
 
 ## CV & CL
