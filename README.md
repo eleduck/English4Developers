@@ -32,7 +32,7 @@
 * [British Council](https://learnenglish.britishcouncil.org/)
 * [Qwerty Learner](https://kaiyiwing.github.io/qwerty-learner/)
 * [Abbreviations](abbreviations.md)
-* [Words-Comparisons](Words-Comparsions/Words-Comparisons.md)
+* [Words-Comparisons](Words-Comparisons/Words-Comparisons.md)
 
 ## English names
 
