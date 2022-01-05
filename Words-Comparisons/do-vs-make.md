@@ -10,7 +10,7 @@ Mum is **making** me a coffee while Jane is **doing** homework.
 
 **Make** focuses on result or outcome, in our examples, the result is a coffee was made.
 
-**Do** only the other hand, focuses on the action, Jane is/was in the process of **doing** homework**.**
+**Do** on the other hand, focuses on the action, Jane is/was in the process of **doing** homework**.**
 
 Can you see the difference?
 
