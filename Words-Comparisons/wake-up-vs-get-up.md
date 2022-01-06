@@ -4,7 +4,7 @@
 
 In short, wake up and get up have different meanings.
 
-In some context, the in Chinese Translation, they both have a meaning of “起床，起来”.
+In some context, in Chinese Translation, they both have a meaning of “起床，起来”.
 
 For examples
 
