@@ -34,6 +34,13 @@
 * [Abbreviations](abbreviations.md)
 * [Words Comparisons](Words-Comparisons/Words-Comparisons.md)
 
+
+## IT words
+
+* [Online Tools](https://tool.lu/pronounce/)
+* [Computer Words](https://github.com/EarsEyesMouth/computerese-cross-references)
+
+
 ## English names
 
 * [How to pick an English name](How-to-pick-an-English-name.md)
