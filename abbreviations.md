@@ -1,18 +1,21 @@
 # Abbreviations
+
+* AM/PM – Before midday (morning) and after midday (afternoon)
 * ASAP – As Soon As Possible
-* FYI - For Your Information
-* DIY – Do It Yourself
-* aka – Also Known As
-* RSVP – Please reply
 * BRB – Be Right Back
 * CC/BCC – Carbon Copy / Blind Carbon Copy
-* IMO – In My Opinion
-* IMHO – In My Humble Opinion
-* AM/PM – Before midday (morning) and after midday (afternoon)
-* N/A – Not Available / Not Applicable
+* DIY – Do It Yourself
 * DOB – Date Of Birth
+* ETA – Estimated Time of Arrival
+* FWIW - For What It’s Worth
+* FYI - For Your Information
+* IMHO – In My Humble Opinion
+* IMO – In My Opinion
+* LMK – Let Me Know
+* N/A – Not Available / Not Applicable
+* PTAL: Please take a look
+* RSVP – Please reply
 * TBA - To Be Announced
 * TBC- To Be Confirmed
 * TBD - To Be Determined
-* ETA – Estimated Time of Arrival
-* LMK – Let Me Know
+* aka – Also Known As
