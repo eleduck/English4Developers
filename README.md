@@ -33,6 +33,7 @@
 * [Developer Dictionary](https://github.com/dephraiim/awesome-developer-dictionary)
 * [British Council](https://learnenglish.britishcouncil.org/)
 * [Qwerty Learner](https://kaiyiwing.github.io/qwerty-learner/)
+* [Episoden](https://episoden.com): Free site to practice English speaking
 * [Abbreviations](abbreviations.md)
 * [Words Comparisons](Words-Comparisons/Words-Comparisons.md)
 
