@@ -36,6 +36,10 @@
 * [Abbreviations](abbreviations.md)
 * [Words Comparisons](Words-Comparisons/Words-Comparisons.md)
 
+## Podcasts
+
+* [All Ears English](https://www.allearsenglish.com/)
+* [Tech Buzz China](https://www.techbuzzchina.com/podcast): A Deep Dive Podcast Into Innovative Companies And Sectors In China Tech
 
 ## IT words
 
