@@ -37,6 +37,7 @@
 * [Abbreviations](abbreviations.md)
 * [Words Comparisons](Words-Comparisons/Words-Comparisons.md)
 * [A Programmer's Guide to English](https://a-programmers-guide-to-english.harryyu.me/)
+* [most-frequent-technology-english-words](https://learn-english.dev/)
 ## Podcasts
 
 * [All Ears English](https://www.allearsenglish.com/)
