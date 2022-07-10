@@ -1,5 +1,6 @@
 # Abbreviations
 
+* AFAICT - As far as I can tell
 * AM/PM – Before midday (morning) and after midday (afternoon)
 * ASAP – As Soon As Possible
 * BRB – Be Right Back
